@@ -32,7 +32,6 @@ Note:
     S and T only contain lowercase letters and '#' characters.
 
 */
-
 class Solution {
 public:
     bool backspaceCompare(string S, string T) {
